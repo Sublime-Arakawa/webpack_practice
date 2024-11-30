@@ -15,6 +15,7 @@
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
     "@babel/preset-react": "^7.25.9",
+    "@types/react": "^18.3.12",
     "babel-loader": "^9.2.1",
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^7.1.2",
@@ -28,12 +29,13 @@
     "sass": "^1.81.0",
     "sass-loader": "^16.0.3",
     "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.7.2",
     "vue": "^3.5.13",
     "vue-loader": "^17.4.2",
     "vue-template-compiler": "^2.7.16",
     "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.1.0"
-  },
-  "dependencies": {}
+  }
 }
